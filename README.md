@@ -2,7 +2,7 @@
 
 A simple Portfolio built with React. 
 
-### [live preview](https://rakibdev.netlify.app/)
+### [Live Preview](https://rakibdev.netlify.app/)
 
 ![react portfolio](src/assets/images/react%20portfolio%20gif.gif)
 
@@ -20,7 +20,7 @@ A simple Portfolio built with React.
 <pre>yarn start</pre>
 
 ### Thanks
- ⭐ 
+ ⭐ Rakib
  
 
 
