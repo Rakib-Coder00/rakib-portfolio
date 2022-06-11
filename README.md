@@ -1,13 +1,13 @@
-### description
+### Description :
 
 A simple Portfolio built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [Live Preview](https://rakibdev.netlify.app/)
 
 ![react portfolio](src/assets/images/react%20portfolio%20gif.gif)
 
 
-### Features
+### Features :
 
 - Fully Responsive
 - Multi-Page Layout
@@ -15,12 +15,13 @@ A simple Portfolio built with React.
 - React-Bootstrap
 - Edit Content From One Place
 
-### start the server
+### Start The Server
 
 <pre>yarn start</pre>
 
+
 ### Thanks
- ⭐ 
+ ⭐ Rakib
  
 
 
