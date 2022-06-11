@@ -149,8 +149,8 @@ const socialprofils = {
     facebook: "https://www.facebook.com/RakibDevOfficial",
     linkedin: "https://www.linkedin.com/in/rakibdev/",
     twitter: "https://twitter.com/RakibXeta",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    youtube: "https://www.youtube.com/channel/UCYQDotJpe0_o3XSIBc-baWw",
+    twitch: "https://www.twitch.tv/rakib_xeta",
 };
 export {
     meta,
