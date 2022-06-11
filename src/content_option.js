@@ -1,7 +1,7 @@
 const logotext = "Rakib Hassan";
 const meta = {
     title: "Rakib Hassan",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Rakib Hassan Full stack developer,currently working looking for intern or Full time job.",
 };
 
 const introdata = {
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About My self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a self-starter and I am always looking for new opportunities to grow and improve my skills. I am a hard-working and dedicated individual who is always looking for new challenges and opportunities. Having a positive outlook and am always willing to learn new traits.  I work well both independently and as part of a team.",
 };
 const worktimeline = [{
     jobtitle: "Designer of week",
